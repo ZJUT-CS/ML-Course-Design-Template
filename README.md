@@ -170,7 +170,7 @@ requirements.txt       # Python 依赖列表
    - 主导特征选择/构造、模型训练与结果分析；  
    - 输出模型性能对比表格与关键可视化图。
 
-3. **工程实现 & 代码结构负责人（MLOps / Engineering Lead）**
+3. **工程实现 & 代码负责人（MLOps / Engineering Lead）**
    - 负责整理 `src/` 目录结构与运行脚本，使项目可一键运行；  
    - 设计命令行参数、日志记录与结果保存方式；  
    - 维护 `requirements.txt` 与补充本 README 中“如何运行本项目”的具体说明。
